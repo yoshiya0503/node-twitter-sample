@@ -1,0 +1,29 @@
+{
+  "name": "node-twitter-sample",
+  "version": "1.0.0",
+  "description": "this is sample project for twitter client",
+  "main": "twitter.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yoshiya0503/node-twitter-sample.git"
+  },
+  "keywords": [
+    "twitter",
+    "node"
+  ],
+  "dependencies": {
+    "express": "~4.1.1",
+    "lodash": "*",
+    "express-session": "*",
+    "cookie-parser": "*",
+    "oauth": "*"
+  },
+  "author": "yoshiya ito",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoshiya0503/node-twitter-sample/issues"
+  },
+  "homepage": "https://github.com/yoshiya0503/node-twitter-sample"
+}
